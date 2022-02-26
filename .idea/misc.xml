@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/PROJECT/android/LiveAttendanceApp/app/src/main/res/drawable/bg_btn_primary.xml" value="0.1365" />
+        <entry key="..\:/PROJECT/android/LiveAttendanceApp/app/src/main/res/drawable/bg_edit_text.xml" value="0.1365" />
+        <entry key="..\:/PROJECT/android/LiveAttendanceApp/app/src/main/res/layout/activity_login.xml" value="0.22088353413654618" />
         <entry key="..\:/PROJECT/android/LiveAttendanceApp/app/src/main/res/layout/activity_splash.xml" value="0.25" />
       </map>
     </option>
